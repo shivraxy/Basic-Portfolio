@@ -4,6 +4,7 @@
 	   background-image: url("../images/back_ground_stonehaven.jpg");
        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
        background-color: #cccccc;
+       pading:10px;
     }
 
 	#header
@@ -67,6 +68,7 @@
         float: left;
         width:650px;
         height:500px;
+        padding-left: 10px;
 
     }
     #connect{
